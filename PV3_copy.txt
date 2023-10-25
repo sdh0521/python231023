@@ -1,0 +1,6 @@
+ (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmAsz.exe)lpParam : -1, 0, 999, 에러 업데이트가 완료되었습니다. (2014.03.11.01)
+
+ (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmAsz.exe)lpParam : -1, 0, 999, 에러 업데이트가 완료되었습니다. (2014.05.29.01)
+
+ (C:\Program Files (x86)\AhnLab\APC2\Policy Agent\AmAsz.exe)lpParam : -1, 0, 999, 에러 업데이트가 완료되었습니다. (2015.04.07.00)
+
