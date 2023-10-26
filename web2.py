@@ -18,7 +18,7 @@ for post in posts:
     title=title.text.strip().replace("\n", "")
     price=price.text.strip().replace("\n", "")
     addr=addr.text.strip().replace("\n", "")
-
+    
     print("물건: {0} / 가격: {1} / 주소: {2}".format(title, price, addr))
     # f를 붙이고 변수명 넘기기
     f.write(f"물건: {title} / 가격: {price} / 주소: {addr}\n")
