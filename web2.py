@@ -23,6 +23,8 @@ for post in posts:
     # f를 붙이고 변수명 넘기기
     f.write(f"물건: {title} / 가격: {price} / 주소: {addr}\n")
 
+f.close()
+
 # <div class="card-desc">
 #       <h2 class="card-title">다이슨청소기</h2>
 #       <div class="card-price ">
